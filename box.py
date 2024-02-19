@@ -1,4 +1,3 @@
-def box(big, small):
-    for i in range(big, small):
-        if i < big:
-            print(i)
+def pass_function(method, x):
+    return method(x)
+    print(f'After passing 5' {function(5)})
